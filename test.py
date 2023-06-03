@@ -25,3 +25,9 @@ df.set_index('Name', inplace=True)
 
 # Print the dataframe
 print(df)
+
+
+# Modulos
+
+import numpy as np
+import pandas as pd
